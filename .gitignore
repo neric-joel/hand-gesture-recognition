@@ -8,3 +8,4 @@ get-pip.py
 venv/
 dist/
 build/
+.claude/settings.local.json
